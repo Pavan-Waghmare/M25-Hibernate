@@ -5,6 +5,7 @@
  * @author admin
  *
  */
-module Day22_JPAWithCurd_Operation {
+module Day3_JPAwithInheritance {
 	requires java.persistence;
+	requires java.desktop;
 }
