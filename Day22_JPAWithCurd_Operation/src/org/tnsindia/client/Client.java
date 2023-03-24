@@ -1,8 +1,8 @@
 package org.tnsindia.client;
 
-import com.tns.entities.Student;
-import com.tns.service.StudentService;
-import com.tns.service.StudentServiceImpl;
+import org.tnsindia.entities.Student;
+import org.tnsindia.service.StudentService;
+import org.tnsindia.service.StudentServiceImpl;
 
 public class Client {
 
